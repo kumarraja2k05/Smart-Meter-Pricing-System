@@ -1,17 +1,12 @@
-# Welcome to PowerDale
+# Welcome to Delhi
 
-PowerDale is a small town with around 100 residents. Most houses have a smart meter installed that can save and send
+Delhi is a small town with around 100 residents. Most houses have a smart meter installed that can save and send
 information about how much power a house is drawing/using.
 
-There are three major providers of energy in town that charge different amounts for the power they supply.
 
-- _Dr Evil's Dark Energy_
-- _The Green Eco_
-- _Power for Everyone_
+# Introducing Smart Energy
 
-# Introducing JOI Energy
-
-JOI Energy is a new start-up in the energy industry. Rather than selling energy they want to differentiate themselves
+Smart Energy is a new start-up in the energy industry. Rather than selling energy they want to differentiate themselves
 from the market by recording their customers' energy usage from their smart meters and recommending the best supplier to
 meet their needs.
 
@@ -24,7 +19,7 @@ on the business, improve the code base and deliver value.
 
 ## Story Wall
 
-At JOI energy the development team use a story wall or Kanban board to keep track of features or "stories" as they are
+At Smart energy the development team use a story wall or Kanban board to keep track of features or "stories" as they are
 worked on.
 
 The wall you will be working from today has 7 columns:
@@ -37,12 +32,9 @@ The wall you will be working from today has 7 columns:
 - Ready for sign off
 - Done
 
-Examples can be found
-here [https://leankit.com/learn/kanban/kanban-board/](https://leankit.com/learn/kanban/kanban-board/)
-
 ## Users
 
-To trial the new JOI software 5 people from the JOI accounts team have agreed to test the service and share their energy
+To trial the new software 5 people from the accounts team have agreed to test the service and share their energy
 data.
 
 | User    | Smart Meter ID  | Power Supplier        |
@@ -347,3 +339,4 @@ Example output
   }
 ]
 ```
+
